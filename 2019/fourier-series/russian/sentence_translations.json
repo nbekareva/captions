@@ -1,6 +1,6 @@
 [
  {
-  "translatedText": "Здесь мы рассмотрим математику, лежащую в основе такой анимации, так называемого сложного ряда Фурье.",
+  "translatedText": "Здесь мы рассмотрим математику, лежащую в основе анимации, как эта, так называемого сложного ряда Фурье.",
   "input": "Here, we look at the math behind an animation like this one, what's known as a complex Fourier series.",
   "time_range": [
    5.12,
@@ -8,7 +8,7 @@
   ]
  },
  {
-  "translatedText": "Каждый маленький вектор вращается с некоторой постоянной целочисленной частотой, и когда вы складываете их вместе, от кончика к хвосту, последний кончик со временем приобретает некоторую форму.",
+  "translatedText": "Каждый маленький вектор вращается с некоторой постоянной целочисленной частотой, и когда вы складываете их вместе, кончик последнего вектора с течением времени рисует некоторую форму.",
   "input": "Each little vector is rotating at some constant integer frequency, and when you add them together, tip to tail, the final tip draws out some shape over time.",
   "time_range": [
    11.24,
@@ -16,7 +16,7 @@
   ]
  },
  {
-  "translatedText": "Настраивая начальный размер и угол каждого вектора, мы можем заставить его рисовать практически все, что захотим, и здесь вы увидите, как это сделать.",
+  "translatedText": "Настраивая начальный размер и угол каждого вектора, мы можем заставить его рисовать практически все, что захотим, и скоро вы увидите, как это сделать.",
   "input": "By tweaking the initial size and angle of each vector, we can make it draw pretty much anything we want, and here you'll see how.",
   "time_range": [
    21.22,
@@ -24,7 +24,7 @@
   ]
  },
  {
-  "translatedText": "Прежде чем погрузиться во все это, я хочу, чтобы вы на минутку задержались на том, насколько это поразительно.",
+  "translatedText": "Прежде чем погрузиться в детали, я хочу, чтобы вы на минутку задержались на том, насколько это поразительно.",
   "input": "Before diving into it all, I want you to take a moment to just linger on how striking this is.",
   "time_range": [
    31.12,
@@ -32,7 +32,7 @@
   ]
  },
  {
-  "translatedText": "Всего в этой конкретной анимации 300 вращающихся стрелок.",
+  "translatedText": "В этой конкретной анимации всего имеется 300 вращающихся стрелок.",
   "input": "This particular animation has 300 rotating arrows in total.",
   "time_range": [
    37.2,
@@ -40,7 +40,7 @@
   ]
  },
  {
-  "translatedText": "Если можете, откройте для этого полный экран, сложность того стоит.",
+  "translatedText": "Если можете, разверните видео на полный экран, сложность того стоит.",
   "input": "Go full screen for this if you can, the intricacy is worth it.",
   "time_range": [
    41.42,
@@ -48,7 +48,7 @@
   ]
  },
  {
-  "translatedText": "Подумайте об этом: действие каждой отдельной стрелы — это, пожалуй, самое простое, что вы можете себе представить: вращение с постоянной скоростью.",
+  "translatedText": "Подумайте об этом: действие каждой отдельной стрелки — это, пожалуй, самое простое, что вы можете себе представить: вращение с постоянной скоростью.",
   "input": "Think about this, the action of each individual arrow is perhaps the simplest thing you could imagine, rotation at a steady rate.",
   "time_range": [
    50.44,
@@ -56,7 +56,7 @@
   ]
  },
  {
-  "translatedText": "И все же совокупность всего этого далеко не проста, и ошеломляющая сложность становится еще более четкой, чем дальше мы увеличиваем масштаб, раскрывая вклад самых маленьких, самых быстрых и совершенно неистовых стрел.",
+  "translatedText": "И все же совокупность всего этого далеко не проста, и ошеломляющая сложность становится еще более четкой, чем дальше мы увеличиваем масштаб, раскрывая вклад самых маленьких, самых быстрых и совершенно неистовых стрелок.",
   "input": "And yet the collection of all added together is anything but simple, and the mind-boggling complexity is put into an even sharper focus the farther we zoom in, revealing the contributions of the littlest, quickest, and downright frenetic arrows.",
   "time_range": [
    58.6,
@@ -72,7 +72,7 @@
   ]
  },
  {
-  "translatedText": "И в отличие от большей части возникающих сложностей, которые можно встретить где-либо еще в природе, это то, что у нас есть математические возможности, чтобы описать и полностью контролировать.",
+  "translatedText": "И в отличие от большей части возникающих сложностей, которые можно встретить где-либо еще в природе, у нас есть математические возможности, чтобы описать и полностью контролировать такой процесс.",
   "input": "And unlike much of the emergent complexity you find elsewhere in nature, this is something that we have the math to describe and to control completely.",
   "time_range": [
    83.84,
